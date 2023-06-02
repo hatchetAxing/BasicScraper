@@ -1,0 +1,16 @@
+{
+  "name": "basicscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "meeee",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.9.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
